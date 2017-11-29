@@ -1,1 +1,1 @@
-package com.example.TicTacToe.enums;public enum PieceEnum {    X,    O}
+package com.example.TicTacToe.enums;public enum Piece {    X,    O}

@@ -1,1 +1,1 @@
-package com.example.TicTacToe.enums;public enum GameTypeEnum {    COMPETITION,    COMPUTER}
+package com.example.TicTacToe.enums;public enum GameType {    COMPETITION,    COMPUTER}

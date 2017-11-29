@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="TicTacToe_main" target="1.8" />
       <module name="TicTacToe_test" target="1.8" />
+      <module name="TicTacToeGameBootAngJS_main" target="1.8" />
+      <module name="TicTacToeGameBootAngJS_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
